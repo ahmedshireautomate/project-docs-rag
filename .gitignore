@@ -1,0 +1,4 @@
+node_modules/
+.env
+index/
+eval/results-full.json

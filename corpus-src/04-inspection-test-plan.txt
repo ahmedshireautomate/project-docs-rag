@@ -1,0 +1,33 @@
+# Riverside Health Centre, Level 1: Inspection and Test Plan for Finishes
+
+Document ref: RHC-ITP-09 rev B. SYNTHETIC DOCUMENT written for demonstration. All names are fictional.
+
+## 1. Purpose
+
+This plan lists the inspections and tests for the finishes package, who carries them out, the acceptance criteria and the record kept. H means hold point: work must not proceed until released. W means witness point: the named party is invited but work may proceed if they do not attend after 24 hours notice.
+
+## 2. Painting
+
+ITP item 2.1: Plasterboard finish. Criterion: Level 4 finish, no visible joints under a raking light. Inspected by the site manager. Type W. Record: form QF-09.
+
+ITP item 2.2: Substrate moisture. Criterion: 16 percent wood moisture equivalent or below, or 1 percent or below by carbide meter. Inspected by the decorating supervisor and accepted by the site manager. Type H. Record: form QF-10 with meter serial number and calibration date.
+
+ITP item 2.3: Sample panel. Criterion: 1 m2 panel per paint system matches the approved colour and sheen. Approved by the architect. Type H. Record: signed sample panel label and photograph.
+
+ITP item 2.4: Dry film thickness. Criterion: 60 microns minimum for PT-1 and 80 microns minimum for PT-2. Tested by the decorating supervisor with a calibrated gauge at five points per room. Type W for the client representative. Record: form QF-11.
+
+ITP item 2.5: Final visual inspection. Criterion: no runs, misses, brush marks or grinning when viewed from 1.5 m in normal lighting. Inspected jointly by the site manager and the architect. Type H. Record: room handover sheet QF-15.
+
+## 3. Wall cladding
+
+ITP item 3.1: WC-1 adhesive bond. Criterion: no hollow areas when tapped; welded joints continuous. Inspected by the site manager. Type W. Record: form QF-13.
+
+## 4. Flooring
+
+ITP item 4.1: Screed relative humidity. Criterion: 75 percent or below using a hygrometer sleeve left in place for 72 hours. Tested by the flooring contractor and accepted by the site manager. Type H. Record: form QF-14.
+
+ITP item 4.2: Welded joints to FL-1. Criterion: joints flush, continuous and trimmed in two passes. Inspected by the site manager. Type W. Record: form QF-14.
+
+## 5. Records and retention
+
+All quality records are scanned to the project document system within 2 working days and handed over in the operation and maintenance manual. Records are kept for 12 years after practical completion.

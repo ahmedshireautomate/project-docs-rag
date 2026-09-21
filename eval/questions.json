@@ -1,0 +1,72 @@
+[
+  {
+    "id": "q01",
+    "question": "What is the minimum dry film thickness for the hygiene coating in clinical rooms?",
+    "expectFiles": ["01-finishes-specification.md", "04-inspection-test-plan.docx"],
+    "expectAnswer": ["80"]
+  },
+  {
+    "id": "q02",
+    "question": "Can we spray the anti-microbial paint in the Treatment Room to save time?",
+    "expectFiles": ["05-rfi-log.md"],
+    "expectAnswer": ["brush and roller|not permitted|not accepted"]
+  },
+  {
+    "id": "q03",
+    "question": "What wall finish goes in the staff shower, and has it changed from the original schedule?",
+    "expectFiles": ["05-rfi-log.md"],
+    "expectAnswer": ["full height", "RFI-014"]
+  },
+  {
+    "id": "q04",
+    "question": "How long after painting with PT-2 before a room can be wet cleaned?",
+    "expectFiles": ["03-method-statement-painting.pdf"],
+    "expectAnswer": ["7 days"]
+  },
+  {
+    "id": "q05",
+    "question": "Why is decoration on hold in Consulting Room B and what has to happen before it restarts?",
+    "expectFiles": ["05-rfi-log.md"],
+    "expectAnswer": ["16", "RFI-021"]
+  },
+  {
+    "id": "q06",
+    "question": "When doing a take-off of wall areas, which openings do I deduct and what waste allowance applies to paint?",
+    "expectFiles": ["01-finishes-specification.md"],
+    "expectAnswer": ["0.5", "5 percent|5%"]
+  },
+  {
+    "id": "q07",
+    "question": "Who has to approve the sample panel and is that a hold point?",
+    "expectFiles": ["04-inspection-test-plan.docx", "03-method-statement-painting.pdf"],
+    "expectAnswer": ["architect", "hold"]
+  },
+  {
+    "id": "q08",
+    "question": "What is the screed humidity limit for the sheet vinyl and what were the latest readings?",
+    "expectFiles": ["06-site-meeting-minutes.md"],
+    "expectAnswer": ["75", "78", "74"]
+  },
+  {
+    "id": "q09",
+    "question": "What is the wall perimeter and ceiling height of the waiting area?",
+    "expectFiles": ["02-room-finish-schedule.md"],
+    "expectAnswer": ["28.6", "3000"]
+  },
+  {
+    "id": "q10",
+    "question": "What actions does Tom Ferris own from the last progress meeting?",
+    "expectFiles": ["06-site-meeting-minutes.md"],
+    "expectAnswer": ["48 hours", "programme"]
+  },
+  {
+    "id": "q11",
+    "question": "What is the contract sum for the fit-out?",
+    "expectNotFound": true
+  },
+  {
+    "id": "q12",
+    "question": "Who is the electrical subcontractor and when do they start second fix?",
+    "expectNotFound": true
+  }
+]

@@ -1,0 +1,31 @@
+# Riverside Health Centre, Level 1: Method Statement for Internal Painting
+
+Document ref: RHC-MS-09-01 rev A. Prepared by Northgate Decorating. SYNTHETIC DOCUMENT written for demonstration. All names are fictional.
+
+## 1. Sequence of work
+
+Work proceeds room by room in this order: substrate inspection, filling and sanding, dust removal, spot priming, mist coat, inspection of the mist coat, first full coat, second full coat, final inspection. Ceiling margins are painted before walls. Joinery is painted after walls.
+
+## 2. Environmental limits
+
+Do not apply any coating when the air temperature is below 8 degrees Celsius or above 30 degrees Celsius, or when relative humidity is above 80 percent. Record temperature and humidity at the start of each shift on form QF-12.
+
+## 3. Drying and recoat times
+
+PT-1 is touch dry in 1 hour and recoatable after 4 hours at 20 degrees Celsius. PT-2 is touch dry in 2 hours and recoatable after 6 hours. PT-2 reaches full anti-microbial performance and washability after 7 days, and rooms must not be wet cleaned before then. PT-3 is recoatable after 16 hours.
+
+## 4. Hold points
+
+Hold point H1: substrate moisture readings accepted by the site manager before the mist coat. Hold point H2: mist coat inspected and snags filled before full coats. Hold point H3: sample panel approved by the architect before each paint system is used for the first time.
+
+## 5. Working in a live building
+
+The ground floor clinic remains open. Only water-based, low odour products are used. Spray application is not used. Extraction fans vent to the rear courtyard, away from the clinic entrance. Materials are delivered before 08:00.
+
+## 6. Labour and plant
+
+One supervisor and four decorators. Plant is limited to podium steps, a dust-extracted pole sander and two dehumidifiers. No tower scaffold is required because the maximum ceiling height is 3000 mm.
+
+## 7. Waste
+
+Empty paint containers are left to dry and returned through the supplier's can recycling scheme. Washings are never poured into sinks or drains; they are settled in a wash station and the residue is disposed of as solid waste.

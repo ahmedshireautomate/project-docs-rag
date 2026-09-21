@@ -1,0 +1,127 @@
+{
+  "ranAt": "2026-09-21T22:52:50.189Z",
+  "summary": {
+    "retrieval": "10/10 answerable questions have an expected document in the top 6",
+    "top1": "9/10 have it at rank 1"
+  },
+  "rows": [
+    {
+      "id": "q01",
+      "question": "What is the minimum dry film thickness for the hygiene coating in clinical rooms?",
+      "retrievalRank": 1,
+      "retrievalPass": true,
+      "top": [
+        "01-finishes-specification.md > 09.2 Paint systems",
+        "04-inspection-test-plan.docx > 2. Painting",
+        "04-inspection-test-plan.docx > 2. Painting"
+      ]
+    },
+    {
+      "id": "q02",
+      "question": "Can we spray the anti-microbial paint in the Treatment Room to save time?",
+      "retrievalRank": 1,
+      "retrievalPass": true,
+      "top": [
+        "05-rfi-log.md > RFI-017: Spray application of PT-2",
+        "01-finishes-specification.md > 09.2 Paint systems",
+        "03-method-statement-painting.pdf > 7. Waste"
+      ]
+    },
+    {
+      "id": "q03",
+      "question": "What wall finish goes in the staff shower, and has it changed from the original schedule?",
+      "retrievalRank": 1,
+      "retrievalPass": true,
+      "top": [
+        "05-rfi-log.md > RFI-014: Wall finish in Staff Shower (Room 1.06)",
+        "06-site-meeting-minutes.md > 5. Actions",
+        "02-room-finish-schedule.md > Wet rooms"
+      ]
+    },
+    {
+      "id": "q04",
+      "question": "How long after painting with PT-2 before a room can be wet cleaned?",
+      "retrievalRank": 1,
+      "retrievalPass": true,
+      "top": [
+        "03-method-statement-painting.pdf > 3. Drying and recoat times",
+        "05-rfi-log.md > RFI-017: Spray application of PT-2",
+        "04-inspection-test-plan.docx > 2. Painting"
+      ]
+    },
+    {
+      "id": "q05",
+      "question": "Why is decoration on hold in Consulting Room B and what has to happen before it restarts?",
+      "retrievalRank": 1,
+      "retrievalPass": true,
+      "top": [
+        "05-rfi-log.md > RFI-021: Moisture readings in Consulting Room B",
+        "05-rfi-log.md > RFI-023: Feature wall covering lead time",
+        "05-rfi-log.md > RFI-014: Wall finish in Staff Shower (Room 1.06)"
+      ]
+    },
+    {
+      "id": "q06",
+      "question": "When doing a take-off of wall areas, which openings do I deduct and what waste allowance applies to paint?",
+      "retrievalRank": 1,
+      "retrievalPass": true,
+      "top": [
+        "01-finishes-specification.md > 09.7 Measurement rules for take-off",
+        "03-method-statement-painting.pdf > 7. Waste",
+        "01-finishes-specification.md > 09.4 Wall coverings"
+      ]
+    },
+    {
+      "id": "q07",
+      "question": "Who has to approve the sample panel and is that a hold point?",
+      "retrievalRank": 1,
+      "retrievalPass": true,
+      "top": [
+        "03-method-statement-painting.pdf > 4. Hold points",
+        "04-inspection-test-plan.docx > 1. Purpose",
+        "04-inspection-test-plan.docx > 2. Painting"
+      ]
+    },
+    {
+      "id": "q08",
+      "question": "What is the screed humidity limit for the sheet vinyl and what were the latest readings?",
+      "retrievalRank": 4,
+      "retrievalPass": true,
+      "top": [
+        "03-method-statement-painting.pdf > 2. Environmental limits",
+        "04-inspection-test-plan.docx > 4. Flooring",
+        "01-finishes-specification.md > 09.6 Resilient flooring"
+      ]
+    },
+    {
+      "id": "q09",
+      "question": "What is the wall perimeter and ceiling height of the waiting area?",
+      "retrievalRank": 1,
+      "retrievalPass": true,
+      "top": [
+        "02-room-finish-schedule.md > Introduction",
+        "02-room-finish-schedule.md > Public and staff areas",
+        "02-room-finish-schedule.md > Wet rooms"
+      ]
+    },
+    {
+      "id": "q10",
+      "question": "What actions does Tom Ferris own from the last progress meeting?",
+      "retrievalRank": 1,
+      "retrievalPass": true,
+      "top": [
+        "06-site-meeting-minutes.md > Attendees",
+        "06-site-meeting-minutes.md > 5. Actions",
+        "06-site-meeting-minutes.md > 2. Progress against programme"
+      ]
+    },
+    {
+      "id": "q11",
+      "question": "What is the contract sum for the fit-out?"
+    },
+    {
+      "id": "q12",
+      "question": "Who is the electrical subcontractor and when do they start second fix?"
+    }
+  ]
+}
