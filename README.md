@@ -57,10 +57,6 @@ The one question not at rank 1 asks for a specification limit and the latest sit
 
 This is a small eval written alongside a small corpus, so treat it as a regression check and not as a benchmark. On a real project the first job is to build the eval from questions the team actually asks.
 
-## Licence
-
-MIT. The sample documents are fictional and were written for this demo; the project, companies and people in them do not exist.
-
 ## How it fits together
 
 ```
@@ -83,3 +79,7 @@ question
 - Carry document metadata (revision, date, status) into retrieval so a superseded revision is never quoted as current.
 - Apply per-user document permissions at retrieval time.
 - Log every question, the passages retrieved and the answer, and grow the eval set from real questions.
+
+## Licence
+
+MIT. The sample documents are fictional and were written for this demo; the project, companies and people in them do not exist.
