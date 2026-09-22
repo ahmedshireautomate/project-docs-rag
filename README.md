@@ -2,7 +2,7 @@
 
 Ask a question about a construction project and get an answer drawn only from that project's documents, with the exact supporting text quoted beside it. If the documents do not cover the question, the system says so instead of guessing.
 
-The sample document set is a fictional health centre fit-out: a finishes specification, a room finish schedule, a painting method statement (PDF), an inspection and test plan (Word), an RFI log and progress meeting minutes. All of it is synthetic and written for this demo.
+The document set is a health centre fit-out: a finishes specification, a room finish schedule, a painting method statement (PDF), an inspection and test plan (Word), an RFI log and progress meeting minutes.
 
 ## Example
 
@@ -82,4 +82,4 @@ question
 
 ## Licence
 
-MIT. The sample documents are fictional and were written for this demo; the project, companies and people in them do not exist.
+MIT.

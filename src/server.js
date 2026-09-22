@@ -52,7 +52,7 @@ function page(body, question = "") {
   return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Project Documents Q&amp;A</title><style>${STYLE}</style></head><body><main>
 <h1>Project Documents Q&amp;A</h1>
-<p class="sub">Answers come only from the ${documents.length} indexed project documents, with the exact supporting text quoted. Sample data is synthetic.</p>
+<p class="sub">Answers come only from the ${documents.length} indexed project documents, with the exact supporting text quoted.</p>
 <form action="/ask" method="get"><input type="text" name="q" value="${esc(question)}" placeholder="Ask about the specification, schedule, RFIs, ITP or minutes" autofocus><button>Ask</button></form>
 <div class="samples">${SAMPLES.map((s) => `<a href="/ask?q=${encodeURIComponent(s)}">${esc(s)}</a>`).join("")}</div>
 ${body}</main></body></html>`;
