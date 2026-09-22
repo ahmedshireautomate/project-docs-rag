@@ -1,6 +1,6 @@
 # Riverside Health Centre, Level 1: Room Finish Schedule
 
-Document ref: RHC-SCH-09 rev B. SYNTHETIC DOCUMENT written for demonstration.
+Document ref: RHC-SCH-09 rev B.
 
 Ceiling height is 2700 mm in all rooms except the waiting area, where it is 3000 mm.
 

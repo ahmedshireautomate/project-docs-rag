@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-09-21T22:52:50.189Z",
+  "ranAt": "2026-09-22T23:56:57.183Z",
   "summary": {
     "retrieval": "10/10 answerable questions have an expected document in the top 6",
     "top1": "9/10 have it at rank 1"
@@ -88,9 +88,9 @@
       "retrievalRank": 4,
       "retrievalPass": true,
       "top": [
-        "03-method-statement-painting.pdf > 2. Environmental limits",
         "04-inspection-test-plan.docx > 4. Flooring",
-        "01-finishes-specification.md > 09.6 Resilient flooring"
+        "01-finishes-specification.md > 09.6 Resilient flooring",
+        "03-method-statement-painting.pdf > 2. Environmental limits"
       ]
     },
     {

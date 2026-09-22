@@ -1,6 +1,6 @@
 # Riverside Health Centre, Level 1 Fit-Out: Finishes Specification (Section 09)
 
-Document ref: RHC-SPEC-09 rev C. SYNTHETIC DOCUMENT written for demonstration. The project, people and companies are fictional.
+Document ref: RHC-SPEC-09 rev C.
 
 ## 09.1 Scope
 

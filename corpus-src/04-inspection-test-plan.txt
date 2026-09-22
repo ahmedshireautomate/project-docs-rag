@@ -1,6 +1,6 @@
 # Riverside Health Centre, Level 1: Inspection and Test Plan for Finishes
 
-Document ref: RHC-ITP-09 rev B. SYNTHETIC DOCUMENT written for demonstration. All names are fictional.
+Document ref: RHC-ITP-09 rev B.
 
 ## 1. Purpose
 

@@ -1,6 +1,6 @@
 # Riverside Health Centre, Level 1: RFI Log (Finishes Package)
 
-Document ref: RHC-RFI-LOG, issue 7. SYNTHETIC DOCUMENT written for demonstration. All names are fictional.
+Document ref: RHC-RFI-LOG, issue 7.
 
 ## RFI-009: Paint to plasterboard ceiling margins
 

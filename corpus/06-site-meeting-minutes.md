@@ -1,6 +1,6 @@
 # Riverside Health Centre, Level 1: Progress Meeting No. 8 Minutes
 
-Document ref: RHC-MIN-08. Meeting held on 18 April in the site office. SYNTHETIC DOCUMENT written for demonstration. All names are fictional.
+Document ref: RHC-MIN-08. Meeting held on 18 April in the site office.
 
 ## Attendees
 
